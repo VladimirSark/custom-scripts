@@ -1,10 +1,9 @@
 <?php
 /*
 Plugin Name: Custom scripts
-Description: Custom scripts goes here
+Description: Custom scripts for wp goes here
 Version: 1.0.0
 Author: Vladimir
-Author URI: slapiosnosys.lt
 */
 
 
